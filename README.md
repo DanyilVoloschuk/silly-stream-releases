@@ -6,7 +6,7 @@ overlays, goals, timers, points and chat commands. Every feature is free: no sub
 no paid tiers, no telemetry.
 
 > This repository only hosts **releases** of SillyStream.
-> Download the latest version from the [Releases page](https://github.com/DanyilVoloschuk/sillystream-releases/releases/latest).
+> Download the latest version from the [Releases page](https://github.com/DanyilVoloschuk/silly-stream-releases/releases).
 
 ---
 
@@ -88,7 +88,7 @@ SillyStream is not affiliated with TikTok, ByteDance, Twitch or Amazon.
 без підписок, платних тарифів і телеметрії.
 
 > У цьому репозиторії є лише **релізи** SillyStream.
-> Завантажте останню версію на [сторінці релізів](https://github.com/YOUR-USER/sillystream-releases/releases/latest).
+> Завантажте останню версію на [сторінці релізів](https://github.com/DanyilVoloschuk/silly-stream-releases/releases).
 
 ---
 
